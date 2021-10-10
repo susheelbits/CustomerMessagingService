@@ -1,0 +1,1 @@
+INSERT INTO customer(customer_id, customer_address, email, first_name, last_name) VALUES (1, 'DSR Rainbow', 'susheel.malhotra@hotmail.com', 'Susheel', 'Malhotra')
